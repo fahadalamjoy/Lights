@@ -1,0 +1,18 @@
+.services-img{
+    background-image: url('../../assets/service-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    height: 40vh;
+    /* max-height: 650px; */
+}
+
+.s-icon{
+    width: 209px;
+}
+
+.our-services{
+    background-color: #F2F2F2;
+    height: 30vh;
+}
